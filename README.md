@@ -1,8 +1,6 @@
 # 10-Test-Cases
 The following 10 Test Cases  were identified for  https://jupiter.cloud.planittesting.com/#/
 
-The following 10 Test Cases  were identified for  https://jupiter.cloud.planittesting.com/#/
-
 1.	Browser Compatibility – checking that the website loads correctly onto different web browsers
 2.	Login – Login page and form loading and accepting user inputs
 3.	Shop Page showing product details must load and Select / Buy buttons working
